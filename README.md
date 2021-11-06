@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
 
 # Mi Card
 
@@ -12,6 +12,15 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 ## What you will learn
 
+Screenshot of the app!
+
+
+[Screenshot 2021-11-06 at 4 45 31 PM](https://user-images.githubusercontent.com/42440349/140607586-ce3fb91b-0a6c-4c38-b3c2-504cd4df929f.png)
+
+
+
+
+
 * How to create Stateless Widgets
 * What is the difference between hot reload and hot refresh and running an app from cold
 * How to use Containers to lay out your UI
@@ -22,9 +31,5 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to read and use Flutter Documentation
 
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
 # micard
 # micardapp
