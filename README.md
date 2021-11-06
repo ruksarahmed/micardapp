@@ -14,8 +14,9 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 Screenshot of the app!
 
+![Screenshot 2021-11-06 at 4 45 31 PM](https://user-images.githubusercontent.com/42440349/140607612-85c30309-f2ff-4aaa-be2d-2242b69af038.png)
 
-[Screenshot 2021-11-06 at 4 45 31 PM](https://user-images.githubusercontent.com/42440349/140607586-ce3fb91b-0a6c-4c38-b3c2-504cd4df929f.png)
+
 
 
 
